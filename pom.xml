@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <properties>
+  <sonar.projectKey>Lilipi_jenkins-sample</sonar.projectKey>
+  <sonar.organization>lilipi</sonar.organization>
+</properties>
+
 </project>
